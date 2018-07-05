@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Super Arania
+El juego consiste en que  mates a tus enemigos para poder cruzar al sigueinte nivel y juntar ciertos puntos para brincar al siguiente nivel.
 
-You can use the [editor on GitHub](https://github.com/objetos-inter2018/SuperAra-a/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Descripcion 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para poder moverte debes usar las teclas de navegacion, para disparar presionas la tecla "x".
+![Aracnido](https://i.pinimg.com/736x/d1/10/37/d11037d879fa8c42779813bb3b6bcb48--black-widow-spider-spiders.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Principales Clases
 
-```markdown
-Syntax highlighted code block
+1. Araña
+- Dispara
+- Come Enemigos
+2. Enemigo
+- cerdo
+- ave
+- conejo
+3. Obstaculo
+- Roca que mata
+- Roca que muere
+4. Items
+- Moneda
+- Telaraña
 
-# Header 1
-## Header 2
-### Header 3
+### Autor(es)
 
-- Bulleted
-- List
+* _Agustin Israel Vergara Navor_
 
-1. Numbered
-2. List
+### Video
 
-**Bold** and _Italic_ and `Code` text
+[video](https://youtu.be/FBAShGXc_ro)
 
-[Link](url) and ![Image](src)
-```
+### Greenfoot
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/objetos-inter2018/SuperAra-a/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Super Araña](http://www.greenfoot.org/scenarios/21854)
